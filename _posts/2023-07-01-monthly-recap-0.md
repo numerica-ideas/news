@@ -1,6 +1,6 @@
 ---
 title: "Monthly Activities #0"
-excerpt: "Community activities done before July 2023"
+excerpt: "All the activities done before July 2023"
 last_modified_at: 2023-07-01T23:58:06-05:00
 header:
   teaser: "assets/images/Ni-Monthly-Recap-0.png"
