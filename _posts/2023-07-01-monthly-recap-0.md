@@ -49,10 +49,19 @@ Hey friend,
 
 This is the result of the teamwork and giving back mentality of the community, so we’ll never stop saying THANKS to you ALL CONTRIBUTORS who produced, reviewed, liked, and shared our content 🚀
 
+### Algorithm Challenges
+Here are some accepted solutions from our coding challenges:
+- [Number of Zero-Filled Subarrays](https://github.com/numerica-ideas/community/blob/master/algorithms/number-of-zero-filled-subarrays.md)
+- [Letter Combinations of a Phone Number](https://github.com/numerica-ideas/community/blob/master/algorithms/letter-combinations-phone-number.md)
+- [Maximum Subarray](https://github.com/numerica-ideas/community/blob/master/algorithms/maximum-subarray.md)
+- [Combinations](https://github.com/numerica-ideas/community/blob/master/algorithms/combinations.md)
+- ...
+- [Find more on GitHub](https://github.com/numerica-ideas/community/tree/master/algorithms)
+
 ### Top Contributors
-- [Ismael Messa](https://blog.numericaideas.com/author/ismael) - Articles & Algorithm Challenge Organizer
-- [Orleando Dassi](https://blog.numericaideas.com/author/dassiorleando) - Articles & Meetup Organizer
-- [Kemane Donfack](https://blog.numericaideas.com/author/kemanedonfack) - Articles
+✅ [Ismael Messa](https://blog.numericaideas.com/author/ismael) - Articles & Algorithm Challenge Organizer <br/>
+✅ [Orleando Dassi](https://blog.numericaideas.com/author/dassiorleando) - Articles & Meetup Organizer <br/>
+✅ [Kemane Donfack](https://blog.numericaideas.com/author/kemanedonfack) - Articles <br/>
 
 To know more about our activities and maybe contribute, feel free to reach [this page](https://github.com/numerica-ideas/community#contribute).
 
