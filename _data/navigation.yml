@@ -1,9 +1,13 @@
 # main links
 main:
+  - title: Archive
+    url: /
   - title: "Blog"
     url: http://blog.numericaideas.com/
-  - title: "Website"
-    url: https://numericaideas.com/
+  # - title: "Website"
+  #   url: https://numericaideas.com/
+  - title: "Community"
+    url: https://discord.numericaideas.com/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
