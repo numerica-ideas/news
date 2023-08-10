@@ -4,7 +4,8 @@ excerpt: "All the activities done before July 2023"
 last_modified_at: 2023-07-01T23:58:06-05:00
 header:
   teaser: "assets/images/Ni-Monthly-Recap-0.png"
-  overlay_image: "assets/images/Ni-Monthly-Recap-0.png"
+  # overlay_image: "assets/images/Ni-Monthly-Recap-0.png"
+  overlay_color: "#50a3db"
 tags: 
   - monthly-recap
   - tech
