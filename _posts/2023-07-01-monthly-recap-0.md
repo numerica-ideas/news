@@ -2,6 +2,7 @@
 title: "Monthly Activities #0"
 excerpt: "All the activities done before July 2023"
 last_modified_at: 2023-07-01T23:58:06-05:00
+comments: true
 header:
   teaser: "assets/images/Ni-Monthly-Recap-0.png"
   # overlay_image: "assets/images/Ni-Monthly-Recap-0.png"

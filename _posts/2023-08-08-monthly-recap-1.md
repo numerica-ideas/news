@@ -2,6 +2,7 @@
 title: "Monthly Activities #1"
 excerpt: "Community activities done during July 2023"
 last_modified_at: 2023-08-08T23:58:06-05:00
+comments: true
 header:
   teaser: "assets/images/Ni-Monthly-Recap-1.png"
   # overlay_image: "assets/images/Ni-Monthly-Recap-1.png"
