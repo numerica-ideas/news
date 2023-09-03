@@ -67,10 +67,6 @@ Here are some accepted solutions from our coding challenges:
 
 To know more about our activities and maybe contribute, feel free to reach [this page](https://github.com/numerica-ideas/community#contribute).
 
-Cheers!
-
-Orleando Dassi - Community Lead
-
 ### Follow Us 👥
 ⭐ More tech content is published regularly on the blog and on YouTube, follow our pages or subscribe to the Monthly Activities Newsletter to receive such a summary each month-end:
 
@@ -78,5 +74,10 @@ Orleando Dassi - Community Lead
 ➡️ [Twitter](https://twitter.com/numericaideas) <br/>
 ➡️ [Facebook](https://facebook.com/numericaideas) <br/>
 ➡️ [LinkedIn](https://www.linkedin.com/company/numericaideas) <br/>
+
+Have a great month, <br/>
+Cheers!
+
+Orleando Dassi - Community Lead
 
 {% include newsletter.html %}
