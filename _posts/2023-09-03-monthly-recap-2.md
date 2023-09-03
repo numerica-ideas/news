@@ -1,7 +1,7 @@
 ---
 title: "Monthly Activities #2"
 excerpt: "Community activities done during August 2023"
-last_modified_at: 2023-09-02T07:00:00-05:00
+last_modified_at: 2023-09-03T07:00:00-05:00
 comments: true
 header:
   teaser: "assets/images/Ni-Monthly-Recap-2.png"
