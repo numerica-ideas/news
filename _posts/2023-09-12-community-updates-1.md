@@ -15,7 +15,9 @@ toc: true
 
 Hey friend,
 
-🔥 We are thrilled to share some of the community updates so far, the first one.
+🔥 We are thrilled to share our first community updates, click [here](https://youtu.be/va8SgEa0ssw) to view it in video.
+
+[![VideoThumbnail](../assets/images/community-updates-1.png)](https://youtu.be/va8SgEa0ssw)
 
 ### Accomplishments
 ✅ 10 amazing authors are now working together to produce high-quality tech content. <br/>
