@@ -27,7 +27,7 @@ Hey friend,
 ✅ ------------------------------------- <br/>
 ✅ [Entretien d'embauche Développeur Frontend: HTML + CSS](https://youtu.be/ILGVVFNeRcY) <br/>
 
-[![WhatIsNi](https://github.com/numerica-ideas/community/blob/master/ni-presentation-play.png?raw=true)](https://youtu.be/6bdCyAZCUTg)
+[![WhatIsNi](https://github.com/numerica-ideas/community/blob/master/ni-presentation-play.gif?raw=true)](https://youtu.be/6bdCyAZCUTg)
 
 ### Articles
 - [How to Scale WordPress on AWS](https://blog.numericaideas.com/aws-scale-wordpress) <br/>
